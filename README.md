@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ardaklc0
 - 👀 I’m interested in maths and programming
-- 🌱 Python, C#, Flutter and Java
+- 🌱 Python, C#, Dart, Java and Swift
