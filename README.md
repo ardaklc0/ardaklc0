@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Arda and I'm a software/hardware lover, from Turkey</h2>
+<h2 align="left">Hi 👋! My name is Arda and I'm a software/hardware lover, from Turkey. I am very enthusiastic about computer sciences!</h2>
 
 ###
 
