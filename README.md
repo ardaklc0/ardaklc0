@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Arda and I'm a software/hardware lover, from Türkiye. I am very enthusiastic about computer sciences! Eppur si muove!</h2>
+<h2 align="left">Hi 👋! My name is Arda and I'm a software/hardware lover, from Türkiye. I am very enthusiastic about computer sciences! Eppur si muove!!</h2>
 
 ###
 
