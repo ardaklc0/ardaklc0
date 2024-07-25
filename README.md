@@ -1,5 +1,5 @@
 <h2><a href="https://academic.oup.com/mind/article/LIX/236/433/986238">I PROPOSE to consider the question, ‘Can machines think?’</a></h2>
-<h3 align="left">Hi 👋! My name is Arda and I'm a software/hardware lover, from Türkiye. A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.</h3>
+<h3 align="left">Hi 👋! My name is Arda and I'm a software/hardware lover, from Türkiye. Life can only be understood backwards; but it must be lived forwards.</h3>
 
 ###
 
