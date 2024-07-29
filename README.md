@@ -1,5 +1,5 @@
 <h2><a href="https://academic.oup.com/mind/article/LIX/236/433/986238">I PROPOSE to consider the question, ‘Can machines think?’</a></h2>
-<h3 align="left">Hi 👋! My name is Arda and I'm a software/hardware lover, from Türkiye.</h3>
+<h3 align="left">My name is Arda and I'm a software/hardware lover, from Türkiye.</h3>
 <h4>Mathematics is the queen of the sciences.</h4>
 <span>Carl Friedrich Gauß</span>
 
