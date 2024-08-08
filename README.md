@@ -1,7 +1,7 @@
 <h2><a href="https://academic.oup.com/mind/article/LIX/236/433/986238">I PROPOSE to consider the question, ‘Can machines think?’</a></h2>
 <h3 align="left">My name is Arda and I'm a software/hardware lover, from Türkiye.</h3>
-<h4>“If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.”</h4>
-<span>- John Von Neumann</span>
+<h4>“Kind words do not cost much.”</h4>
+<span>- Blaise Pascal</span>
 
 ###
 
